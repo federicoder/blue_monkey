@@ -1,4 +1,4 @@
-# 🏫 Maplewood High School - Course Planning Challenge
+# Blue Mokey
 
 Build a full-stack course planning application for students to browse courses, plan their semester schedule, and track graduation progress.
 
@@ -40,7 +40,6 @@ Pre-populated SQLite database (`maplewood_school.sqlite`) with 400 students, 57 
 
 **Key Tables:** `students`, `courses`, `student_course_history`, `semesters` (see [DATABASE.md](./DATABASE.md))
 
-**Your Task:** Create additional tables for course sections, time slots, and current semester enrollments.
 
 ---
 
@@ -91,4 +90,4 @@ fullstack-challenge/
 
 ---
 
-**Questions?** Email: <DL-eBay-Data-Productization@ebay.com>
+**Questions?** Email: federicoderrico12@gmail.com
