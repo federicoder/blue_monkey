@@ -1,0 +1,18 @@
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Backend build
+backend/target/
+*.log
+
+# Frontend build/deps
+frontend/node_modules/
+frontend/dist/
+
+# Env/local
+.env
+.env.*
